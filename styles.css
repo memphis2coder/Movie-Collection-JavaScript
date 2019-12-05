@@ -1,0 +1,12 @@
+:root {
+  --main-background-color: #f3f5f9;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: var(--main-background-color);
+}
+
+/* container styles */
+.container {
+}
